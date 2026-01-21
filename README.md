@@ -1,7 +1,7 @@
 # Hi there 👋, I'm [Rohit]  
 ### 🌟 Data Scientist | Python Enthusiast | Creative Thinker 💡  
 
-![creative banner](https://media.giphy.com/media/3o7TKtdg4Xoxp8wIoA/giphy.gif)  
+# ![Welcome GIF](https://camo.githubusercontent.com/78ed30004423ffda368a6a7aced5823b55eb5e39147972cd0c9c9ce94c7a2b28/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f37544b74646734586f78703877496f412f67697068792e676966)   
 
 ---
 

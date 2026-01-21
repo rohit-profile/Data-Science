@@ -1,0 +1,21 @@
+Order_ID,Customer_ID,Order_Date,Delivery_Date,Product_Category,Product_Price,Quantity,Discount,Payment_Method,Customer_Age,Customer_Gender,City,Return_Flag,Customer_Rating
+1001,C001,2023-01-05,2023-01-08,Electronics,45000,1,10,Credit Card,28,M,Delhi,No,5
+1002,C002,2023-01-06,2023-01-20,Clothing,2500,3,40,UPI,22,F,Mumbai,Yes,2
+1003,C003,2023-02-10,2023-02-13,Home Decor,7000,1,15,Debit Card,35,F,Bangalore,No,4
+1004,C001,2023-02-14,2023-02-28,Electronics,120000,1,5,Net Banking,28,M,Delhi,Yes,1
+1005,C004,2023-03-01,2023-03-05,Beauty,1800,4,30,COD,19,F,Jaipur,No,4
+1006,C005,2023-03-18,2023-03-30,Clothing,3200,2,50,UPI,42,M,Kolkata,Yes,2
+1007,C006,2023-04-02,2023-04-04,Electronics,65000,1,20,Credit Card,31,F,Pune,No,5
+1008,C007,2023-04-10,2023-04-25,Home Decor,15000,1,35,Debit Card,55,M,Chennai,Yes,3
+1009,C008,2023-05-05,2023-05-06,Beauty,999,5,60,UPI,24,F,Delhi,No,4
+1010,C009,2023-05-20,2023-06-10,Electronics,90000,1,25,COD,38,M,Patna,Yes,1
+1011,C010,2023-06-01,2023-06-03,Clothing,4200,2,10,Credit Card,27,F,Bangalore,No,5
+1012,C011,2023-06-15,2023-07-01,Home Decor,22000,1,45,Net Banking,48,F,Lucknow,Yes,2
+1013,C012,2023-07-07,2023-07-09,Beauty,1500,6,20,UPI,21,F,Mumbai,No,5
+1014,C013,2023-07-20,2023-08-05,Electronics,300000,1,30,Credit Card,60,M,Gurgaon,Yes,1
+1015,C014,2023-08-01,2023-08-02,Clothing,2800,3,5,COD,33,M,Indore,No,4
+1016,C015,2023-08-18,2023-09-10,Home Decor,18000,1,50,Debit Card,45,F,Noida,Yes,2
+1017,C016,2023-09-05,2023-09-06,Beauty,1200,4,10,UPI,26,F,Delhi,No,5
+1018,C017,2023-09-25,2023-10-15,Electronics,75000,1,35,Net Banking,39,M,Ranchi,Yes,1
+1019,C018,2023-10-02,2023-10-03,Clothing,5200,2,15,Credit Card,29,F,Pune,No,4
+1020,C019,2023-10-18,2023-11-02,Home Decor,26000,1,40,COD,52,M,Bhopal,Yes,3
